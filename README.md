@@ -1,2 +1,3 @@
 # FLuTTuR
-Just some random widgets
+
+<b>Just some random widgets</b>
