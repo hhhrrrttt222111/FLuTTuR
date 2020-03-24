@@ -1,6 +1,6 @@
 # TIC-TAC-TOE
 
-A Flutter application.
+![Image description](https://raw.githubusercontent.com/hhhrrrttt222111/FLuTTuR/master/TIC-TAC-TOE/Screenshot.png)
 
 
 
